@@ -1,5 +1,7 @@
 ## YOLOV3：You Only Look Once目标检测模型在Pytorch当中的实现
 ---
+模型算法来源于：
+[bubbliiiing / yolo3-pytorch](https://github.com/bubbliiiing/yolo3-pytorch)
 
 **2021年10月12日更新：**   
 **进行了大幅度的更新，对代码的模块进行修改，加了大量注释。**   
